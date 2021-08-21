@@ -7,7 +7,7 @@ import * as VueGoogleMaps from 'vue2-google-maps'
 Vue.config.productionTip = false
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyAp_caprOWPayfzd9TPsInpb7hIIA2w02I'
+    key: 'your-api-key'
   }
 })
 new Vue({
