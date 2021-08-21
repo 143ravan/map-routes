@@ -23,7 +23,7 @@ On click of edit icon the details of corresponding routes get filled in the regi
 
 On click of delete icon the status of corresponding entry becomes inactive and hide the delete icon, here we are not removing any entry just changing its status.
 
-### Delete
+### View Map
 View map option, when we click on icon map for the particular route open up as modal, we can see the marker of particular stops.
 
 ###  IMPORTANT TO USE MAP
